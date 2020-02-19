@@ -5,7 +5,7 @@ define([], function () {
   //and url parameters.
   var defaults = {
     "appid": "",
-    "webmap": "25660c0facdb419191c8b2dec5da74d7",
+    "webmap": "c38fc32620974712980c27bf95c52a4f",
     "oauthappid": "arcgisWebApps", //"AFTKRmv16wj14N3z",
     //Group templates must support a group url parameter. This will contain the id of the group.
     //group: "",
